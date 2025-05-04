@@ -70,15 +70,15 @@
   
   // 联系信息
   const contactInfo = {
-    电话: '123-456-7890',
-    邮箱: 'zhangsan@example.com',
-    地址: '北京市朝阳区'
+    电话: '**********',
+    邮箱: '**************.com',
+    地址: '*******'
   };
   const website = 'https://www.example.com';
   
   // 教育背景
   const education = {
-    school: '北京大学',
+    school: '****',
     major: '电子商务专业',
     start: '2018',
     end: '2022'
